@@ -1,0 +1,27 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdelaideYoder/_3-5_Grunt-AwesomeApp.git"
+  },
+  "author": "Adelaide Yoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdelaideYoder/_3-5_Grunt-AwesomeApp/issues"
+  },
+  "homepage": "https://github.com/AdelaideYoder/_3-5_Grunt-AwesomeApp#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-browserify": "^5.3.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify-es": "^3.3.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-eslint": "^20.2.0"
+  }
+}
